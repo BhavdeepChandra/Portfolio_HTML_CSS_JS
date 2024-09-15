@@ -1,5 +1,5 @@
-This is Bhavdeep's Chandra Portfolio website sourcecode.
+This is the source code for Bhavdeep Chandra's portfolio website.
 
-Bhavdeep is a software engineer who has started working since march 2019. 
+Bhavdeep is a Software Engineer who has been working professionally since march 2019. This website showcases his personal projects, serves as his portfolio, and functions as an online resume.
 
-This website is made using HTML CSS and JavaScript. Any major changes will be documented in this README.md
+The website is built using HTML, CSS, and JavaScript. Any significant changes will be documented in this README.md.
